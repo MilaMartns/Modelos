@@ -13,9 +13,30 @@
 </head>
 <body>
     <div class="cabecalho"></div>
+    <div class="rodape"></div>
     <div class="glamorous-stars">Glamorous Stars</div>
     <div class="explicaçao">Mostre todo seu glamour.</div>
 
+<link rel="stysheet" href="styles.css">
+<section>
+      <figure class="gif">
+            <img src="glourimus.gif">
+      </figure>
+</section>
+
+
+    <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="140" viewBox="0 0 1440 140" fill="none">
+        <path d="M8 140H1448V0H8L-4.5 69L8 140Z" fill="url(#paint0_linear_2_6)"/>
+        <defs>
+          <linearGradient id="paint0_linear_2_6" x1="735" y1="140" x2="735" y2="0" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FA00FF"/>
+            <stop offset="0.0001" stop-color="#FA00FF" stop-opacity="0"/>
+            <stop offset="0.0002" stop-color="#F804E5" stop-opacity="0.115221"/>
+            <stop offset="0.541667" stop-color="#EC1F1F"/>
+            <stop offset="0.666667"/>
+          </linearGradient>
+        </defs>
+      </svg>
     
 </body>
 </html>
