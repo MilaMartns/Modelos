@@ -60,11 +60,11 @@
 }
 
 .logo { 
-  
-  position: relative;
-  width: 270px;
-  height: 150px;
-  padding: 10px;
-  top: -200px;
+
+  width: 624px;
+  height: 400px;
+  position: absolute;
+  left: -22px;
+  top: -12px;
 
 }
