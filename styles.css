@@ -12,11 +12,8 @@
     overflow: hidden;
 }
 
-.glamorous-stars {
+.logo {
     
-  color: hsl(0, 0%, 100%);
-  text-align: left;
-  font: 400 64px "Jua", sans-serif;
   position: absolute;
   left: 405px;
   top: 150px;
@@ -56,15 +53,5 @@
   top: 400px;
   left: 400px;
   width: 750px;
-
-}
-
-.logo { 
-
-  width: 624px;
-  height: 400px;
-  position: absolute;
-  left: -22px;
-  top: -12px;
 
 }
