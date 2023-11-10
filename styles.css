@@ -18,9 +18,9 @@
   text-align: left;
   font: 400 64px "Jua", sans-serif;
   position: absolute;
-  left: 651px;
+  left: 405px;
   top: 150px;
-  width: 590px;
+  width: 800px;
   height: 90px;
 }
 
@@ -30,9 +30,9 @@
   text-align: left;
   font: 400 45px "Jua", sans-serif;
   position: absolute;
-  left: 640px;
+  left: 490px;
   top: 280px;
-  width: 590px;
+  width: 510px;
   height: 50px;
   
 }
@@ -54,7 +54,16 @@
   position: absolute;
   padding: 10px;
   top: 400px;
-  left: 600px;
+  left: 400px;
   width: 750px;
 
+}
+
+.logo { 
+
+   position: relative;
+   width: 272px;
+   height: 160px;
+   padding: 10px;
+   top: 100px;
 }
