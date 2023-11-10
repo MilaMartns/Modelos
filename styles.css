@@ -13,12 +13,13 @@
 }
 
 .logo {
-    
+
   position: absolute;
-  left: 405px;
-  top: 150px;
-  width: 800px;
-  height: 90px;
+  left: 300px;
+  top: 60px;
+  width: 890px;
+  height: 285px;
+
 }
 
 .explicaçao {
@@ -28,7 +29,7 @@
   font: 400 45px "Jua", sans-serif;
   position: absolute;
   left: 490px;
-  top: 280px;
+  top: 300px;
   width: 510px;
   height: 50px;
   
