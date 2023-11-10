@@ -28,15 +28,22 @@
   text-align: left;
   font: 400 30px "Jua", sans-serif;
   position: relative;
-  left: 250px;
+  left: 100px;
   top: -130px;
   width: 50px;
 
   }
 
 .modelos {
-
-
+  
+  color: hsl(0, 0%, 100%);
+  text-align: left;
+  font: 400 30px "Jua", sans-serif;
+  position: relative;
+  left: 250px;
+  top: -130px;
+  width: 50px;
+  
 }
 
 .explicaçao {
