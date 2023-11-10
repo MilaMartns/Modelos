@@ -31,13 +31,14 @@
   font: 400 45px "Jua", sans-serif;
   position: absolute;
   left: 640px;
-  top: 310px;
+  top: 280px;
   width: 590px;
   height: 50px;
   
 }
 
 .cabecalho {
+
   position: relative;
   width: 1950px;
   height: 160px;
@@ -47,17 +48,13 @@
 
 }
 
-.rodape {
-  position:absolute;
-  width: 1950px;
-  height: 200px;
-  flex-shrink: 0;
+.gif_video {
 
-  background: fill linear-gradient(180deg, #FA00FF 0%, rgba(250, 0, 255, 0.00) 0.01%, rgba(248, 4, 229, 0.12) 0.02%, #EC1F1F 54.17%, #000 66.67%);
-}
+  text-align: left;
+  position: absolute;
+  padding: 10px;
+  top: 400px;
+  left: 600px;
+  width: 750px;
 
-
-.gif {
-  text-align: center;
- padding: 10px;
 }
