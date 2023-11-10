@@ -61,9 +61,10 @@
 
 .logo { 
 
-   position: relative;
-   width: 272px;
-   height: 160px;
-   padding: 10px;
-   top: 100px;
+  width: 624px;
+  height: 400px;
+  position: absolute;
+  left: -22px;
+  top: -12px;
+
 }
