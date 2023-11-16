@@ -48,7 +48,7 @@
   
 }
 
-.explicaçao {
+.explicacao {
 
   color: hsl(0, 0%, 100%);
   text-align: left;
@@ -58,7 +58,6 @@
   top: 300px;
   width: 510px;
   height: 50px;
-  
 }
 
 .cabecalho {
