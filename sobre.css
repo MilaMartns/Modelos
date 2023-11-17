@@ -40,13 +40,21 @@
     position: absolute;
     left: 86px;
     top: 320px;
-    width: 1364px;
+    height: 229px;
     height: auto;
+}
     
-  }
 
   .paragrafo2 {
 
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 45px "Jua", sans-serif;
+    position: absolute;
+    left: 86px;
+    top: 620px;
+    height: 229px;
+    height: auto;
 
     
   }
