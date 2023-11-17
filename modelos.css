@@ -49,6 +49,12 @@
 
 .gdragon perfil {
 
+  text-align: left;
+  position: absolute;
+  padding: 10px;
+  top: 261px;
+  left: 300px;
+  width: 533px;
 
 }
 
