@@ -59,9 +59,27 @@
 }
 
 
+.cl {
 
+  text-align: left;
+  position: absolute;
+  padding: 10px;
+  top: 655px;
+  left: 182px;
+  width: 533px;
 
+}
 
+.clperfil {
+
+  text-align: left;
+  position: absolute;
+  width: 702px;
+  height: 371px;
+  left: 799px;
+  top: 645px;
+
+}
 
 
 
