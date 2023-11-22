@@ -52,10 +52,23 @@
     font: 400 36px "Jua", sans-serif;
     position: absolute;
     left: 63px;
-    top: 759px;
+    top: 620px;
     height: 229px;
     height: auto;
 
     
   }
+.paragrafo3 {
+
+  color: hsl(0, 0%, 100%);
+  text-align: left;
+  font: 400 36px "Jua", sans-serif;
+  position: absolute;
+  left: 63px;
+  top: 759px;
+  height: 229px;
+  height: auto;
+
+}
+
 
