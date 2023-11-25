@@ -36,14 +36,76 @@
     
   }
 
-  .informacoes {
+  .informacoes1 {
 
     color: hsl(0, 0%, 100%);
     text-align: left;
-    font: 400 38px "Jua", sans-serif;
+    font: 400 62px "Jua", sans-serif;
     position: absolute;
     left: 61px;
     top: 320px;
     height: 229px;
     height: auto;
 }
+
+.endereco {
+
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 62px "Jua", sans-serif;
+    position: absolute;
+    left: 61px;
+    top: 400px;
+    height: 229px;
+    height: auto;
+}
+
+.e-mail {
+
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 62px "Jua", sans-serif;
+    position: absolute;
+    left: 61px;
+    top: 320px;
+    height: 229px;
+    height: auto;
+}
+
+.site {
+
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 62px "Jua", sans-serif;
+    position: absolute;
+    left: 61px;
+    top: 500px;
+    height: 229px;
+    height: auto;
+}
+
+.instagram {
+
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 62px "Jua", sans-serif;
+    position: absolute;
+    left: 61px;
+    top: 590px;
+    height: 229px;
+    height: auto;
+}
+
+.facebook {
+
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 62px "Jua", sans-serif;
+    position: absolute;
+    left: 61px;
+    top: 650px;
+    height: 229px;
+    height: auto;
+}
+
+
