@@ -7,7 +7,7 @@
     color: #000000;
     border: 0%;
     width: 100%;
-    height: 900px;
+    height: 1000px;
     position: relative;
     overflow: hidden;
 }
@@ -42,7 +42,7 @@
   position: absolute;
   padding: 10px;
   top: 261px;
-  left: 182px;
+  left: 350px;
   width: 533px;
 
 }
@@ -53,7 +53,7 @@
   position: absolute;
   width: 702px;
   height: 371px;
-  left: 799px;
+  left: 990px;
   top: 229px;
 
 }
@@ -65,7 +65,7 @@
   position: absolute;
   padding: 10px;
   top: 655px;
-  left: 182px;
+  left: 350px;
   width: 533px;
 
 }
@@ -76,7 +76,7 @@
   position: absolute;
   width: 702px;
   height: 371px;
-  left: 799px;
+  left: 990px;
   top: 618px;
 
 }
